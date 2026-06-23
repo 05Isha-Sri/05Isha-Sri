@@ -1,12 +1,18 @@
-- Hi, I’m @05Isha-Sri
-- I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Isha Sri 👋
 
-<!---
-05Isha-Sri/05Isha-Sri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech CSBS Student (2023–2027) 
+
+## About Me
+- Interested in Software Development and Data Science
+- Currently learning Java, Spring Boot, DSA, Databases, and APIs
+- Exploring Backend Development and Problem Solving
+- Passionate about building practical software solutions
+
+## Skills
+- Java
+- Python
+- SQL
+- Power BI
+- HTML, CSS 
+- Git & GitHub
+
