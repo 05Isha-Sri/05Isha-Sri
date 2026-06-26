@@ -10,6 +10,8 @@
 
 ## Skills
 - Java
+- Springboot
+- RestApI
 - Python
 - SQL
 - Power BI
