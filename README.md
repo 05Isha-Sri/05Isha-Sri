@@ -4,8 +4,8 @@
 
 ## About Me
 - Interested in Software Development and Data Science
-- Currently learning Java, Spring Boot, DSA, Databases, and APIs
-- Exploring Backend Development and Problem Solving
+- Currently learning Java, Spring Boot, DSA, React, Database, and APIs
+- Exploring Full stack Development and Problem Solving
 - Passionate about building practical software solutions
 
 ## Skills
@@ -14,7 +14,7 @@
 - RestApI
 - Python
 - SQL
-- Power BI
+- React 
 - HTML, CSS 
 - Git & GitHub
 
