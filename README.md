@@ -15,6 +15,6 @@
 - Python
 - SQL
 - React 
-- HTML, CSS 
+- HTML, CSS, JavaScript 
 - Git & GitHub
 
